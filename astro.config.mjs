@@ -17,6 +17,6 @@ export default defineConfig({
     drafts: true
   },
   site: 'https://caucasiancongaline.github.io',
-  base: '/website'
+  base: '/website',
   integrations: [tailwind(), sitemap(), mdx()]
 });
