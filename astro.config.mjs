@@ -16,6 +16,6 @@ export default defineConfig({
     skipInline: false,
     drafts: true
   },
-  site: 'https://caucasiancongaline.github.io',
+  site: 'https://caucasiancongaline.github.io/website',
   integrations: [tailwind(), sitemap(), mdx()]
 });
